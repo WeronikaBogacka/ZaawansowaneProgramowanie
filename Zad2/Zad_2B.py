@@ -1,4 +1,4 @@
-#pdpkt B
+# pdpkt B
 
 def pomnoz_przez_dwa(liczby):
     wynik = []

@@ -1,4 +1,4 @@
-#C
+# C
 
 
 def wyswietl_parzyste(liczby):
